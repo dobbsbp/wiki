@@ -1,2 +1,2 @@
 # wiki
-Wiki for projects and maker stuff
+Please go to [My Wiki Page](https://github.com/dobbsbp/wiki/wiki)
